@@ -1,0 +1,6 @@
+{
+  "name": "PrepPro Network & Portals",
+  "description": "Access all study portals, test series, coaching apps, and notes for JEE, NEET & competitive exams with seamless iframe embedding and direct access.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
